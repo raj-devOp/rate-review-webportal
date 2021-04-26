@@ -1,5 +1,5 @@
 # Rate-Review-Webportal for Test
-A rate and review web app developed using Python with Django framework. A simple responsive web app created where one can give review and rating (1 to 5) on posts done by Admin.
+A rate and review web app developed using Python with Django framework. A simple responsive web app created where one can give review and rating (1 to 5) on posts done by Admin. Also, whenever a user wishes to comment on Admin's post, it will send the data to Admin site to confirm the comment even before submission. This function is for the safety and ethical usage. 
 
 # Steps to run the code
 * Download the zip file
